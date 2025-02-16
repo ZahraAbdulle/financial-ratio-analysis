@@ -15,17 +15,8 @@ This project performs **financial ratio analysis** on publicly listed companies 
 - **Benchmarks financial performance against industry averages**
 - **Generates visualizations for trend comparison**
 
-## Getting Started
-
-### Installation
-Ensure you have Python and Jupyter Notebook installed. Install the required dependencies using:
-
-```bash
-pip install yfinance pandas matplotlib tabulate
-```
-
-### Running the Notebook
-1. Open the Jupyter Notebook:
+## Running the Notebook
+1. Ensure you have Python and Jupyter Notebook installed. Open the Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
